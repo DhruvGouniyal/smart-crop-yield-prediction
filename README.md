@@ -1,4 +1,4 @@
-# 🌾 Smart Crop Yield Prediction using AI
+# 🌾 Smart Crop Yield Prediction using AI  
 
 <div align="center">
 
