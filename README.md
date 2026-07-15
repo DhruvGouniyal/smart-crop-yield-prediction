@@ -1,5 +1,4 @@
 # 🌾 Smart Crop Yield Prediction using AI  
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +18,7 @@
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard
+### 🏠 Dashboard of project
 > Real-time KPIs, model performance overview, crop distribution charts, and dataset statistics.
 
 ![Dashboard](screenshots/01_dashboard.png)
